@@ -6,7 +6,11 @@ html {
   position: absolute;
   top: 100px;
   right: 0;
+  left: 800px;
 }
 
 /* Write your solution here */
 
+@media only screen and (max-width: 1196px) {
+  
+}
