@@ -12,7 +12,5 @@ html {
 
 /* Write your solution here */
 
-@media only screen (max-width: 100px;) {
-   left: 50px;
-   top: 50px;
-}
+@media only screen (max-width: 100px) 
+ 
